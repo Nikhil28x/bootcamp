@@ -27,3 +27,21 @@ cite{
     font-weight: bold;
     font-size: 1.3rem;
 }
+
+a:hover {color:cornflowerblue;
+    text-decoration:none;
+    color:darkgray;
+    background-color: black;
+
+}
+
+a.havard:link{color:blue;
+    background-color: rgb(17, 3, 94);
+    text-shadow: indigo;
+    font-size: 2.0rem;
+
+
+
+}
+
+
