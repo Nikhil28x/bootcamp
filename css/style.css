@@ -1,0 +1,29 @@
+/* my first css */
+
+body { 
+    font-family: Arial, Helvetica, sans-serif;
+    background-color: chartreuse;
+}
+
+img{
+    border: 10px solid green
+}
+
+h1{
+    border: 5px dotted pink;
+    text-align: center;
+}
+blockquote{
+    font-family: Georgia, 'Times New Roman', Times, serif; font-size: 3rem; 
+    font-size: italic ;
+    text-align:center;
+}
+cite{
+    font-size: 3rem;
+    font-weight: bold;
+}
+
+.bigbold{
+    font-weight: bold;
+    font-size: 1.3rem;
+}
